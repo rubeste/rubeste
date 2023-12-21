@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rubeste
 - 👀 I’m interested in Information Security & Software Engineering
-- 🌱 I’m currently learning Micro services & IdentityServer4
+- 🌱 Working at a Great Company to secure and protect
 - 📫 How to reach me rubeste@live.nl
